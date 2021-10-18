@@ -26,6 +26,7 @@ img {
 }
 h2 {
   color: blue;
+  clear: both;
 }
 ul{
     text-align: left;
