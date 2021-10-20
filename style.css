@@ -20,7 +20,8 @@ table{
     width: 100%;
 }
 img {
-  width: 40%;
+  width: 485px;
+  height: 300px;
   float: left;
   padding-right: 2rem;
 }
